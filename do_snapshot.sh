@@ -35,5 +35,5 @@ else
 fi
 
 cd ~
-sleep 10
+sleep 1
 sudo umount $MOUNT_ROOT
